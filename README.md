@@ -38,11 +38,11 @@ I'm a Full Stack Engineer and Web Developer based in Jakarta, Indonesia. Current
 
 ## 🏆 Certifications
 
-- JobConnectData Science (September 2024)
-- Memulai Dasar Pemrograman Untuk Menjadi Pengembang Software (October 2023)
-- Belajar Manajemen Proyek (October 2023)
-- Data Science Foundation (July 2023)
-- The Data Science Course (July 2023)
+- Job Connector Data Science - Purwadhika (September 2024)
+- Memulai Dasar Pemrograman Untuk Menjadi Pengembang Software - Dicoding (October 2023)
+- Belajar Manajemen Proyek - Dicoding (October 2023)
+- Data Science Foundation - Udemy (July 2023)
+- The Data Science Course - Udemy (July 2023)
 
 ## 🔧 Skills
 

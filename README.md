@@ -18,8 +18,8 @@ I'm a Full Stack Engineer and Web Developer based in Jakarta, Indonesia. Current
 ## 💼 Experience
 
 - **Full Stack Engineer** at Biro Klasifikasi Indonesia (August 2024 - Present)
-- **Full Stack Web Developer** at Codeding - ProjectSkola (August 2023 - Present)
-- **Web Developer** at Yellowfit (March 2023 - August 2023)
+- **Full Stack Web Developer** at Codenito - Project Based (August 2023 - Present)
+- **Web Developer** at Yelowash (March 2023 - August 2023)
 
 ## 🎓 Education
 
@@ -54,9 +54,28 @@ Collaboration, Adaptive, Commitment, Discipline, Critical Thinking, Problem Solv
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Riverroll&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Riverroll&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riverroll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Riverroll&show_icons=true&count_private=true&theme=dark" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riverroll&theme=dark" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>
+
+### Languages and Tools
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riverroll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Riverroll&limit=5&theme=dark&combine_all_yearly_contributions=true" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Riverroll&limit=5&theme=dark&combine_all_yearly_contributions=true)

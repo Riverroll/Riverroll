@@ -1,124 +1,68 @@
-<!-- ### Hi there 👋 -->
+# Hi there 👋 I'm Nauval Uzlah
 
-<!-- Header Section -->
+[![](https://visitcount.itsvg.in/api?id=NauvalUzlah&icon=8&color=12)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
+## 🧑‍💻 About Me 
 
-<a href="https://wakatime.com/@018ee9fe-13d3-4971-8c34-344bd4682d92"><img src="https://wakatime.com/badge/user/018ee9fe-13d3-4971-8c34-344bd4682d92.svg" alt="Total time coded since Apr 17 2024" /></a>
+I'm a Full Stack Engineer and Web Developer based in Jakarta, Indonesia. Currently pursuing a double degree in Informatics Engineering and Information Systems, I'm passionate about software development and data science.
 
-<!-- > My name is <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino</a></b> 「 I am a Full Stack Engineer from Indonesia 」 -->
-<!-- </samp> -->
-
-<!--
-- 🌍 Based in Indonesia
-- 💼 [Portfolio](https://bit.ly/m/portofolio-rhazes)
-- 📫 Reach me at [email@example.com](mailto:email@example.com)
-
-<p align=""> 
-  <samp>
-    
-  </samp>
-</p>
--->
-
-
-
-
-<h3 align="left">🧑‍💻 About Me <a href="https://www.google.com/search?q=rhazes+devino">「 Google Me 」</a></h3>
-<p align="left">
-<!--   I thrive on challenges and believe in continuous learning. My journey in the world of programming started with my curiosity about how technology works. Since then, I've been on an exciting learning path to become a skilled developer. -->
-  I am a passionate Full Stack Engineer with a love for software and web development. I constantly seek to expand my knowledge and stay updated with the latest industry trends. Adaptable and open to feedback, I strive to continually improve and refine my skills.
-</p>
 <p align="">
-  <a href="https://www.linkedin.com/in/rhazes/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
-        <a href="https://www.instagram.com/rhazes.d/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"  />
- </a> 
+  <a href="https://www.linkedin.com/in/YourLinkedInProfile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/YourInstagramHandle/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a> 
 </p>
 
-<!-- Skills -->
-<h3 align="left">💻 Tech Stack</h3>
+## 💼 Experience
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-<!--<h3 align="left">🚀 Skills</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+- **Full Stack Engineer** at Biro Klasifikasi Indonesia (August 2024 - Present)
+- **Full Stack Web Developer** at Codeding - ProjectSkola (August 2023 - Present)
+- **Web Developer** at Yellowfit (March 2023 - August 2023)
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Hapi.js-005571?style=flat-square&logo=hapi&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+## 🎓 Education
 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Service-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Object%20Relational%20Mapping-336791?style=flat-square">
+- **Asia E University** - Informatics Engineering (S1)
+- **Universitas Indonesia** - Information Systems (D2)
 
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind.css-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Restful%20API-336791?style=flat-square">
-</p>
--->
+## 💻 Tech Stack
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- GitHub Stats -->
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nctrnlman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nctrnlman&layout=compact&langs_count=8&theme=algolia">
+## 🏆 Certifications
 
-</p>
+- JobConnectData Science (September 2024)
+- Memulai Dasar Pemrograman Untuk Menjadi Pengembang Software (October 2023)
+- Belajar Manajemen Proyek (October 2023)
+- Data Science Foundation (July 2023)
+- The Data Science Course (July 2023)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nctrnlman&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+## 🔧 Skills
 
+### Hard Skills
+Analysis, Data, IT Project Management, Database Administration, Data Analysis, Machine Learning, Software Development, CSS, Database Management, HTML, Python, UX Design, Web Design, Web Development, Docker, Git, Data Mining, Data Visualization, PowerBI, Analytics, Big Data Management, Process Analytics, User Interface (UI)
 
-### ✍️ Dev Quote
+### Soft Skills
+Collaboration, Adaptive, Commitment, Discipline, Critical Thinking, Problem Solving, Leadership, Flexibility, Active Learning, Responsiveness, Conflict Management, Honesty, Project Management, Active Listening
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NauvalUzlah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NauvalUzlah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NauvalUzlah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NauvalUzlah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<!--
-# Hi there 👋 
-![](https://komarev.com/ghpvc/?username=nctrnlman&style=for-the-badge)
-My name **Rhazes Devino**.
-
-I am a Double Degree Student with a major in Information Technology. My passion lies in Software and Web Development, and I am highly motivated and dedicated to pursuing excellence in these fields. I am enthusiastic about learning and continuously seek opportunities to broaden my knowledge while keeping up with the latest trends and advancements in the industry.
-
-Adaptability is one of my strengths, and I am always open to feedback and challenges. I believe in constant self-improvement and consistently work to refine my skills. My goal is to contribute my knowledge and expertise to create a positive and meaningful impact in the projects and tasks I undertake.
-
-I am excited about the ever-evolving world of technology and its potential to transform businesses and lives. If you're interested in connecting or learning more about me, feel free to reach out. Let's collaborate and make a difference together!
-
-[Linkedin](https://www.linkedin.com/in/rhazes/)
-
-<p align="left">
-<a href="https://github.com/nctrnlman">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nctrnlman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nctrnlman&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
--->
-
-<!--
-**nctrnlman/nctrnlman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=NauvalUzlah&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -79,9 +79,3 @@ Collaboration, Adaptive, Commitment, Discipline, Critical Thinking, Problem Solv
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Riverroll&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=NauvalUzlah&icon=0&color=0)](https://visitcount.itsvg.in)
